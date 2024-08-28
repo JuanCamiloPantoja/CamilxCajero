@@ -1,0 +1,10 @@
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\bin\Debug\PantojaCajeroSqlC.exe.config
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\bin\Debug\PantojaCajeroSqlC.exe
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\bin\Debug\PantojaCajeroSqlC.pdb
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.csproj.AssemblyReference.cache
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.Form1.resources
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.Properties.Resources.resources
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.csproj.GenerateResource.cache
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.csproj.CoreCompileInputs.cache
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.exe
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.pdb
