@@ -9,3 +9,4 @@ C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\Pantoj
 C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.exe
 C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.pdb
 C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.Registrar.resources
+C:\Users\Ash20\OneDrive\Escritorio\JuanPantojaCajeroSql\PantojaCajeroSqlC\PantojaCajeroSqlC\obj\Debug\PantojaCajeroSqlC.InicioSesion.resources

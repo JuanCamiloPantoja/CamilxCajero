@@ -49,6 +49,7 @@
             this.BtIniciarSesion.TabIndex = 1;
             this.BtIniciarSesion.Text = "Iniciar Sesión";
             this.BtIniciarSesion.UseVisualStyleBackColor = true;
+            this.BtIniciarSesion.Click += new System.EventHandler(this.BtIniciarSesion_Click);
             // 
             // BtRegistrarse
             // 

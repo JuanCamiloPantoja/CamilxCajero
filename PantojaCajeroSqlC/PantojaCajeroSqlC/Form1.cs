@@ -23,5 +23,12 @@ namespace PantojaCajeroSqlC
             registrar.Show();
             this.Hide();
         }
+
+        private void BtIniciarSesion_Click(object sender, EventArgs e)
+        {
+            InicioSesion Ingresar = new InicioSesion();
+            Ingresar.Show();
+            this.Hide();
+        }
     }
 }
