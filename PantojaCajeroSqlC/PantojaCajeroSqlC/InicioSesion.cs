@@ -57,8 +57,8 @@ namespace PantojaCajeroSqlC
 
         private void BtCancelar_Click(object sender, EventArgs e)
         {
-            Form1 cancelar = new Form1();
-            cancelar.Show();
+            Form1 cancelarinicioSesion = new Form1();
+            cancelarinicioSesion.Show();
             this.Hide();
         }
     }
